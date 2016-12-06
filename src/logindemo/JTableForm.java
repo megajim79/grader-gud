@@ -95,6 +95,7 @@ public class JTableForm extends javax.swing.JFrame {
             }
         });
 
+        jTable_TableDemo.setAutoCreateRowSorter(true);
         jTable_TableDemo.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
 
