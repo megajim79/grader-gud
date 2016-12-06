@@ -150,7 +150,6 @@ public class StudentAssignmentTable extends javax.swing.JFrame {
             }
         });
 
-        StudentTable1.setAutoCreateRowSorter(true);
         StudentTable1.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
 
